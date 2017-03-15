@@ -54,7 +54,7 @@ Ya tendremos nuestra librería importada:
      │   └── CraftBukkit-API     
      │
      ├── APIS
-     │   ├── .jar oficial de minley
+     │   ├── .jar oficial de DiveBlocks
      │   ├── .jar aprueba de exploits 
      │   └── .jar con todas las libs
      │
